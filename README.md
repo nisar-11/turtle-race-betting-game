@@ -36,8 +36,3 @@ The Turtle Race Betting Game is a fun and interactive project built using Python
 
 ## Contributing
 Feel free to fork this repository and make improvements. Contributions are welcome!
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
